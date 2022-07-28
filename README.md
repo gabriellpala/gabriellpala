@@ -3,9 +3,9 @@
 - Eu estou cursando Sistemas de Informação
 
 <div align="center">
-  <a href="https://github.com/gabrielpala">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpala&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpala&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gabriellpala">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellpala&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellpala&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
