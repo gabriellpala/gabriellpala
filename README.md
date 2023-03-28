@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel
 
-- Eu estou cursando Sistemas de Informação
+- Cursando Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/gabriellpala">
